@@ -1,0 +1,3 @@
+Ovaj fajl i text dodan poslje prvog commita.
+
+Naknadna izmjena ali spašena u b čvor.
