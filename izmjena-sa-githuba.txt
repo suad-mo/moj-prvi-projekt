@@ -11,3 +11,6 @@ Ovo je izmjena lokalno ponovo...
 Nova izmjena lokalno.....
 
 0000000000000
+
+
+11111111111111
