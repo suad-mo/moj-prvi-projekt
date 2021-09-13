@@ -16,3 +16,6 @@ Nova izmjena lokalno.....
 11111111111111
 
 github 11111111111111111
+
+
+dosu starmo push origin 222222222222
